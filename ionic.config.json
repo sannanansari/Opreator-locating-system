@@ -1,0 +1,7 @@
+{
+  "name": "Operator-Locating-system",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

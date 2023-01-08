@@ -1,0 +1,14 @@
+{
+  "login": [],
+  "register": [
+    {
+      "email": "dummy@gmail.com",
+      "name": "dummy",
+      "number": "8521479630",
+      "gender": "male",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "id": 1
+    }
+  ]
+}
